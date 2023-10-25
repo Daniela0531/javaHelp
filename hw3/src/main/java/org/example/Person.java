@@ -1,3 +1,4 @@
+package org.example;
 class Person {
     private Long id = 0L;
     private String name = "name";
